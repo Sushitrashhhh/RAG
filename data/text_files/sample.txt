@@ -1,0 +1,1 @@
+This is a sample text file created for testing purposes. It contains multiple lines of text to demonstrate how to read and process text files in Python. The content of this file can be used to test various text processing techniques, such as tokenization, word counting, and more. This file serves as an example for working with text data in Python.
